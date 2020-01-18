@@ -4,8 +4,8 @@ Initiation Challenge
 
 
 ### Dependencies
-..* flask
-..* pyserial
+...flask
+...pyserial
 
 
 
@@ -26,6 +26,6 @@ Initiation Challenge
 ![alt text](uno.png)
 
 
-###Notes
-..* Make sure your pins correspond to your code
-..* Make sure your serial port matches the one in the code
+### Notes
+...Make sure your pins correspond to your code
+...Make sure your serial port matches the one in the code

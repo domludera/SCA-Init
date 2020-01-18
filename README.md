@@ -3,13 +3,13 @@ Initiation Challenge
 
 
 
-###Dependencies
+### Dependencies
 ..* flask
 ..* pyserial
 
 
 
-###Installation
+### Installation
 
 
 1. Make sure you activate the venv
@@ -21,9 +21,9 @@ Initiation Challenge
 `python server.py`
 
 
-###Circuit
+### Circuit
 
-![alt text][uno.png]
+![alt text](uno.png)
 
 
 ###Notes

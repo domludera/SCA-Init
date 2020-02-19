@@ -1,4 +1,4 @@
-# SCA-Init
+# Space Concordia
 Initiation Challenge
 
 
